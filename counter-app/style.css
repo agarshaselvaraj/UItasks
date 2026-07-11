@@ -1,0 +1,34 @@
+.card {
+
+    border: 2px solid black;
+    width: 40vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.value {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%
+}
+
+.count {
+    margin-right: 20px
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%
+}
