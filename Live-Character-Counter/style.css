@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #45AEF7;
+    height: 100vh;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70vw;
+    height: 40vh;
+    background-color: white;
+    border-radius: 10px;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.textbox {
+    /* display:flex;
+  align-items:center;
+  justify-content:center;
+  height:50px;
+  flex-direction:column; */
+
+}
+
+.title {
+    font-size: 16px;
+}
+
+.text-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+    width: 100%;
+}
+
+#input-box {
+    height: 100px;
+    width: 80%;
+
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 90px;
+    width: 90%;
+
+
+}
+
+#char-cnt {
+    font-size: 16px;
+}
+
+#char-fin {
+    font-size: 16px;
+}
