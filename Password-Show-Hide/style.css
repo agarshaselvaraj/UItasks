@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.passwordtext {
+    font-size: 14px;
+}
+
+.password {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    width: 200px;
+}
+
+#password-box {
+    width: 200px;
+    height: 20px;
+}
