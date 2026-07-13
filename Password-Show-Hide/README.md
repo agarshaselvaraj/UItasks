@@ -98,9 +98,9 @@ Password-Show-Hide/
 
 ## 📸 Screenshot
 
-> Add a screenshot of your application.
+![alt text](image-1.png)
 
-Example:
+
 
 
 
@@ -162,16 +162,6 @@ password.type = "password";
 
 ---
 
-## 📌 Future Improvements
-
-- Replace checkbox with a Show/Hide button.
-- Add an eye icon (👁️) toggle.
-- Display password strength.
-- Validate minimum password length.
-- Add smooth transition effects.
-- Improve accessibility using ARIA attributes.
-
----
 
 ## 👨‍💻 Author
 
